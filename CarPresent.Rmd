@@ -56,4 +56,4 @@ library(car)
 scatterplotMatrix(~mpg+disp+wt, data=mtcars, cex.axis=1.5)
 ```
 
-## Thank You
+## Thank Youu
